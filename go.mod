@@ -1,4 +1,4 @@
-module github.com/alindesign/go-react
+module github.com/woozard/go-react
 
 go 1.14
 
